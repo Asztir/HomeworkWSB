@@ -1,48 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de04e7d4-d910-48cd-923d-a85dc6e8adbd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HomeworkWSB.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercises9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="de04e7d4-d910-48cd-923d-a85dc6e8adbd" name="Changes" comment="new" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +40,7 @@
     "last_opened_file_path": "/Users/asztir/Desktop/Nauka_Java/HomeworkWSB"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Exercises45">
+  <component name="RunManager">
     <configuration name="Exercises42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercises42" />
       <module name="HomeworkWSB" />
@@ -135,8 +94,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669198351048</updated>
-      <workItem from="1669900031332" duration="2483000" />
+      <workItem from="1669900031332" duration="2920000" />
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1669902903492</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669902903492</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +119,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

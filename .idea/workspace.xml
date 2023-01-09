@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de04e7d4-d910-48cd-923d-a85dc6e8adbd" name="Changes" comment="new" />
+    <list default="true" id="de04e7d4-d910-48cd-923d-a85dc6e8adbd" name="Changes" comment="new">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises53.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercises63.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +37,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="a7cf9a7f-0d10-4212-9873-c5b3e85ebffb" />
+        <option name="url" value="https://github.com/Asztir/HomeworkWSB.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -31,46 +59,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/asztir/Desktop/Nauka_Java/HomeworkWSB"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/asztir/Desktop/Nauka_Java/HomeworkWSB&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="Exercises42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises42" />
+}</component>
+  <component name="RunManager" selected="Application.Exercises63">
+    <configuration name="Exercises57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises57" />
       <module name="HomeworkWSB" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises43" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises43" />
+    <configuration name="Exercises60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises60" />
       <module name="HomeworkWSB" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises44" />
+    <configuration name="Exercises61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises61" />
       <module name="HomeworkWSB" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises45" />
+    <configuration name="Exercises62" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises62" />
       <module name="HomeworkWSB" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercises46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercises46" />
+    <configuration name="Exercises63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercises63" />
       <module name="HomeworkWSB" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercises45" />
-        <item itemvalue="Application.Exercises46" />
-        <item itemvalue="Application.Exercises44" />
-        <item itemvalue="Application.Exercises43" />
-        <item itemvalue="Application.Exercises42" />
+        <item itemvalue="Application.Exercises63" />
+        <item itemvalue="Application.Exercises62" />
+        <item itemvalue="Application.Exercises57" />
+        <item itemvalue="Application.Exercises61" />
+        <item itemvalue="Application.Exercises60" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +127,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1669198351048</updated>
-      <workItem from="1669900031332" duration="2920000" />
+      <workItem from="1669900031332" duration="34217000" />
+      <workItem from="1672302470053" duration="3391000" />
+      <workItem from="1672653038477" duration="1685000" />
     </task>
     <task id="LOCAL-00001" summary="new">
       <created>1669902903492</created>
@@ -103,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1669902903492</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new">
+      <created>1669903422252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669903422252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
